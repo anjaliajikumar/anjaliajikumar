@@ -1,1 +1,1 @@
-hello world
+<head>hello world</head>
