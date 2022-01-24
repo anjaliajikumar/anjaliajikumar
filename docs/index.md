@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHubPages
 
 You can use the [editor on GitHub](https://github.com/anjaliajikumar/anjaliajikumar.github/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
